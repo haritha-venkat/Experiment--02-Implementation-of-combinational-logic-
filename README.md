@@ -41,11 +41,6 @@ assign f=((p | q & |r));
 endmodule
 ```
 ## Output:
-
-![image](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/b7e022d9-1d5c-42c6-b7a5-2093bf416e87)
-![image](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/38e35784-00c1-44c0-9782-30510921965e)
-
-
 ## RTL VIEWER:
 ![image](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/8ead6d66-1b73-40a8-9ea9-729047547a3a)
 ![image](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/487bb566-7c53-4c78-b656-9d7db77b7af8)
