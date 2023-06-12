@@ -20,24 +20,20 @@ The input and output variables are allocated with letter symbols. The exact trut
 Developed by: harithashree.v
 RegisterNumber: 212222230046
 
-module combine(a,b,c,d,f);
-input a,b,c,d;
-output f;
-wire p,q,r;
-assign p=(~c & b & a);
-assign q=(~d & c & c & a);
-assign r=(c & ~b & a);
-assign f=(~(~p & ~q & ~r));
+F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
+
+module exp2f1(A,B,C,D,f1);
+input A,B,C,D;
+output f1;
+assign f1=(~B&~D)|(A&B&~C)|(~A&B&D);
 endmodule
 
-module combine1(a,b,c,d,f);
-input a,b,c,d;
-output f;
-wire p,q,r;
-assign p=(c & ~b & a);
-assign q=(d & ~c & a);
-assign r=(c & ~b & a);
-assign f=((p | q & |r));
+F2=xy’z+x’y’z+w’xy+wx’y+wxy
+
+module exp2(w,x,y,z,f2);
+input w,x,y,z;
+output f2;
+assign f2=(~y&z)|(x&y)|(w&y);
 endmodule
 ```
 ## Output:
