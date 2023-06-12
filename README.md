@@ -38,13 +38,16 @@ endmodule
 ```
 ## Output:
 ## RTL VIEWER:
-![image](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/8ead6d66-1b73-40a8-9ea9-729047547a3a)
-![image](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/487bb566-7c53-4c78-b656-9d7db77b7af8)
+![Screenshot 2023-06-12 142001](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/9003cefa-cb8c-43a7-91ec-926f53c1d315)
+
+![Screenshot 2023-06-12 142030](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/5ebd6d08-5a6a-434f-ac90-e797154d3b04)
 
 
 ## TIMING DIAGRAM:
-![image](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/a992db88-5942-40f3-85c2-cdf9ff827d00)
-![image](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/5637b966-5411-4127-9072-500fd51c9792)
+
+![Screenshot 2023-06-12 142105](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/3ee3c1b7-7d1c-4c0c-97a9-bf66776fe3c3)
+
+![Screenshot 2023-06-12 142130](https://github.com/haritha-venkat/Experiment--02-Implementation-of-combinational-logic-/assets/121285701/9d874051-9a61-4bba-b35d-fb638b84009c)
 
 
 ## RESULT:
